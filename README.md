@@ -1,3 +1,3 @@
 # Boxing Excotomg
 
-아아아앙안됑
+나는 git을 배운다
