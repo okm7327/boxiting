@@ -1,3 +1,4 @@
 # Boxing Excotomg
 
-나는 git을 배운다
+## 기능 목록
+1. 스파링 상대 찾기.
